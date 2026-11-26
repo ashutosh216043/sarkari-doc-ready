@@ -1,0 +1,8 @@
+{
+  "name": "SarkariDocReady",
+  "description": "100% browser-based Indian Government Exam photo, signature, thumb impression, and declaration resizer & auto-validator for SSC, IBPS, UPSC, and RRB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
